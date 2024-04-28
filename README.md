@@ -1,6 +1,6 @@
 # IMDB Web Scraping
 
-Fully functional web scraper targeting [IMDb](https://www.imdb.com/search/title/?groups=top_100&sort=user_rating,desc&count=100) (a databases of movies, TV series and other media) scraping the top one hundred movies by user rating at any given moment. 
+Fully functional web scraper targeting [IMDb](https://www.imdb.com/search/title/?groups=top_100&sort=user_rating,desc&count=100) (a databases of movies, TV series and other media) scraping the top 100 movies by user rating at any given moment. 
 
 
 ## Libraries Used
